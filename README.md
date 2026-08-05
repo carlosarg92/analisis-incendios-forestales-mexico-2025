@@ -56,8 +56,6 @@ Trabajé el dataset (7,016 registros, 76 variables) en dos etapas: primero en Py
 
 ## Dashboard
 
-*(Agrega aquí la captura de tu dashboard de Power BI, por ejemplo: `![Dashboard](im<img width="1231" height="690" alt="dashboard_preview" src="https://github.com/user-attachments/assets/f2ab60a1-9e75-4199-8d9d-8d2c4a440bad" />
-ages/dashboard_preview.png)`)*
 
 ## Cómo reproducir el análisis
 
