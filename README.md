@@ -55,7 +55,7 @@ Trabajé el dataset (7,016 registros, 76 variables) en dos etapas: primero en Py
 ```
 
 ## Dashboard
-![Dashboard del proyecto](images/dashboard_preview.png)
+![Dashboard del proyecto](dashboard_preview.png)
 
 ## Cómo reproducir el análisis
 
