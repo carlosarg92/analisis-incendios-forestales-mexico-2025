@@ -43,10 +43,10 @@ Trabajé el dataset (7,016 registros, 76 variables) en dos etapas: primero en Py
 ## Estructura del repositorio
 
 ├── README.md
-├── analisis_incendios_2025.ipynb   # Notebook de Python (Google Colab)
-├── incendios_2025_limpio.csv       # Dataset limpio, listo para Power BI
-├── incendios_2025.pbix             # Dashboard de Power BI
-└── dashboard_preview.png           # Captura del dashboard
+├── analisis_incendios_2025.ipynb  
+├── incendios_2025_limpio.csv       
+├── incendios_2025.pbix             
+└── dashboard_preview.png           
 
 ## Dashboard
 ![Dashboard del proyecto](dashboard_preview.png)
