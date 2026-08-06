@@ -65,5 +65,5 @@ Trabajé el dataset (7,016 registros, 76 variables) en dos etapas: primero en Py
 
 **Carlos Martín Ascencio Robles Gil**
 Analista de Datos JR / Biologo
-[LinkedIn](https://www.linkedin.com/in/carlos-mart%C3%ADn-ascencio-robles-gil-990b02166) · [Portafolio en Notion](https://app.notion.com/p/3b492614f06181d5bbcbc497bcd73a00)
+[LinkedIn](https://www.linkedin.com/in/carlos-mart%C3%ADn-ascencio-robles-gil-990b02166) · [Portafolio en Notion](https://app.notion.com/p/An-lisis-de-incendios-forestales-en-M-xico-2025-3b492614f06181d5bbcbc497bcd73a00)
 
