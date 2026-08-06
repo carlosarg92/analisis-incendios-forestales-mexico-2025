@@ -65,4 +65,4 @@ Trabajé el dataset (7,016 registros, 76 variables) en dos etapas: primero en Py
 
 **Carlos Martín Ascencio Robles Gil**
 Biólogo en transición hacia análisis de datos
-[LinkedIn](https://www.linkedin.com/in/carlos-mart%C3%ADn-ascencio-robles-gil-990b02166) · [Portafolio en Notion](#)
+[LinkedIn](https://www.linkedin.com/in/carlos-mart%C3%ADn-ascencio-robles-gil-990b02166) · [Portafolio en Notion](https://app.notion.com/p/Portafolio-f1b92614f0618307b3e6013ac6643c09)
