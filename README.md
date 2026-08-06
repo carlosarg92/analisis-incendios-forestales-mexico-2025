@@ -42,21 +42,24 @@ Trabajé el dataset (7,016 registros, 76 variables) en dos etapas: primero en Py
 
 ## Estructura del repositorio
 
+```
 ├── README.md
-├── analisis_incendios_2025.ipynb
-├── incendios_2025_limpio.csv
-├── incendios_2025.pbix
-└── dashboard_preview.png
+├── analisis_incendios_2025.ipynb   # Notebook de Python (Google Colab)
+├── incendios_2025_limpio.csv       # Dataset limpio, listo para Power BI
+├── incendios_2025.pbix             # Dashboard de Power BI
+└── dashboard_preview.png           # Captura del dashboard
+```
 
 ## Dashboard
+
 ![Dashboard del proyecto](dashboard_preview.png)
 
 ## Cómo reproducir el análisis
 
-1. Clona el repositorio: `git clone <url-del-repositorio>`
-2. Abre `notebook/analisis_incendios_2025.ipynb` en Google Colab o Jupyter.
-3. Ejecuta las celdas en orden; el notebook exporta el dataset limpio a `data/incendios_2025_limpio.csv`.
-4. Abre `dashboard/incendios_2025.pbix` en Power BI Desktop para explorar el dashboard interactivo.
+1. Clona el repositorio: `git clone https://github.com/carlosarg92/analisis-incendios-forestales-mexico-2025.git`
+2. Abre `analisis_incendios_2025.ipynb` en Google Colab o Jupyter.
+3. Ejecuta las celdas en orden; el notebook exporta el dataset limpio a `incendios_2025_limpio.csv`.
+4. Abre `incendios_2025.pbix` en Power BI Desktop para explorar el dashboard interactivo.
 
 ## Autor
 
